@@ -1,0 +1,1 @@
+20/01/2018 00:34:pool[happy-flying-rivers-8eup1m]: add article model, add create_articles migration, add basic validation to article model, migrate db
